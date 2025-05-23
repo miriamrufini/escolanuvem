@@ -1,0 +1,5 @@
+Primeira frase: aprendendo Python na Escola da Nuvem.
+Segunda frase: praticando com arquivos.
+Terceira frase: usando o modo write.
+Quarta frase: agora usando o modo append.
+Quinta frase: continuando a prática.
